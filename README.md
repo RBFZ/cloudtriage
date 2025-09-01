@@ -66,12 +66,7 @@ graph TD
 - Database: Provision AWS RDS (MySQL)
 - File Storage: Use AWS S3
 - Authentication: Set up AWS Cognito
-
----
-
-## Screenshots
-*To be added after UI implementation.*
-
+- 
 ---
 
 ## Future Improvements
